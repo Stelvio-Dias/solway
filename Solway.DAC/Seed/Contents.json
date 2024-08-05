@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "ContentURL": "picture.jpg",
+    "Color": "Red",
+    "Tags": "Green",
+    "Height": 40,
+    "Width": 20,
+    "Description": "Random Content 1",
+    "MediaTypeId": 1,
+    "AppUserId": 1,
+    "CreatedAt": "2023-09-21",
+    "UpdatedAt": "2023-09-21"
+  },
+  {
+    "Id": 2,
+    "ContentURL": "picture.jpg",
+    "Color": "Blue",
+    "Tags": "Black",
+    "Height": 70,
+    "Width": 20,
+    "Description": "Random Content 2",
+    "MediaTypeId": 2,
+    "AppUserId": 2,
+    "CreatedAt": "2023-09-21",
+    "UpdatedAt": "2023-09-21"
+  },
+  {
+    "Id": 3,
+    "ContentURL": "picture.jpg",
+    "Color": "Pink",
+    "Tags": "Movie",
+    "Height": 70,
+    "Width": 20,
+    "Description": "Random Content 3",
+    "MediaTypeId": 2,
+    "AppUserId": 3,
+    "CreatedAt": "2023-09-21",
+    "UpdatedAt": "2023-09-21"
+  },
+  {
+    "Id": 4,
+    "ContentURL": "picture.jpg",
+    "Color": "Grey",
+    "Tags": "Sports",
+    "Height": 70,
+    "Width": 20,
+    "Description": "Random Content 4",
+    "MediaTypeId": 1,
+    "AppUserId": 4,
+    "CreatedAt": "2023-09-21",
+    "UpdatedAt": "2023-09-21"
+  }
+]

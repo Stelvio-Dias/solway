@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Email": "johndoe@gmail.com",
+    "PictureUrl": "picture.jpg",
+    "Password": "1234",
+    "CreatedAt": "2023-09-21",
+    "UpdatedAt": "2023-09-21"
+  },
+  {
+    "Id": 2,
+    "FirstName": "Maria",
+    "LastName": "Madalena",
+    "Email": "mariamadelena@gmail.com",
+    "PictureUrl": "picture.jpg",
+    "Password": "1234",
+    "CreatedAt": "2023-09-21",
+    "UpdatedAt": "2023-09-21"
+  },
+  {
+    "Id": 3,
+    "FirstName": "Ruth",
+    "LastName": "Rutheford",
+    "Email": "ruthruthford@gmail.com",
+    "PictureUrl": "picture.jpg",
+    "Password": "1234",
+    "CreatedAt": "2023-09-21",
+    "UpdatedAt": "2023-09-21"
+  },
+  {
+    "Id": 4,
+    "FirstName": "Alexander",
+    "LastName": "Mcqueen",
+    "Email": "alexandermcqueen@gmail.com",
+    "PictureUrl": "picture.jpg",
+    "Password": "1234",
+    "CreatedAt": "2023-09-21",
+    "UpdatedAt": "2023-09-21"
+  }
+]

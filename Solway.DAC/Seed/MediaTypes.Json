@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Name": "Imagem",
+    "Description": "Media type para imagens",
+    "CreatedAt": "2023-09-21",
+    "UpdatedAt": "2023-09-21"
+  },
+  {
+    "Id": 2,
+    "Name": "Video",
+    "Description": "Media type para videos",
+    "CreatedAt": "2023-09-21",
+    "UpdatedAt": "2023-09-21"
+  }
+]
